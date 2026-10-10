@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astral-sh/ty-pre-commit/commit/ded8634232ffc633dc66d44f1b0dfe2bdf766542",
       "git:hexsha": "ded8634232ffc633dc66d44f1b0dfe2bdf766542",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.0.86"
     },
     {
