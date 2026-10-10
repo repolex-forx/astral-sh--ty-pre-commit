@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "astral-sh",
+  "repo": "ty-pre-commit",
+  "versions": [
+    {
+      "commit": "ded8634232ffc633dc66d44f1b0dfe2bdf766542",
+      "parsed_at": "2026-10-10T04:27:20.013644+00:00",
+      "tag": "v0.0.86",
+      "filetree": "filetree/ded8634232ffc633dc66d44f1b0dfe2bdf766542.nq.gz",
+      "blobs": [
+        "blob/23b2203df3cf8a2c5206343b40511b5e182cd8b2.nq.gz",
+        "blob/9b37f144aa1c5aae80dfe0c1b5301b6520ba4e26.nq.gz",
+        "blob/a75c39950d64468efe139133db45120fb5cf0932.nq.gz",
+        "blob/b0a477a71ad1ded7b57c42738b717bc8c3b87f6a.nq.gz",
+        "blob/1febb9f87852428471ec13a4cdb408996116bf21.nq.gz",
+        "blob/309de5763b135a2f879391d9c899e95ca488798b.nq.gz",
+        "blob/543902914efcc5562aa023691347836e9ed4cccb.nq.gz",
+        "blob/ad45eb8b5db71785f2e518db460e27b01204fe94.nq.gz",
+        "blob/f8980229a290a76f4fffdf0594d8663dc52435c3.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/c16d8bb1db2621505a8bdd37d260d6f312b049ad.nq.gz",
+        "blob/1a0062569d1d0268fba61cf4a7a885b64521ac1b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
