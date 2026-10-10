@@ -1,0 +1,11 @@
+{
+  "org": "astral-sh",
+  "repo": "ty-pre-commit",
+  "versions": [
+    {
+      "commit": "ded8634232ffc633dc66d44f1b0dfe2bdf766542",
+      "tag": "v0.0.86",
+      "parsed_at": "2026-10-10T04:29:19.999585+00:00"
+    }
+  ]
+}
